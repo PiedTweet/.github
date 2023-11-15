@@ -1,11 +1,13 @@
 # PiedTweet
 
-## We are student of [Lê Điệp](https://www.facebook.com/nomadic.lodestar)
+## About Us
+We are students of [Lê Điệp](https://www.facebook.com/nomadic.lodestar).
 
-My Class [PIED tới đây](https://www.facebook.com/PiedTeam)
+## Our Class
+Check out our class at [PIED Team](https://www.facebook.com/PiedTeam).
 
-We are very grateful for having you as our teacher in my life
+## Purpose
+In this space, we create stuff to learn new things.
 
-Without you, we won't be someone like today
-
----
+## Gratitude
+We are very grateful for having Lê Điệp as our teacher in our lives. Without him, we wouldn't be who we are today.
